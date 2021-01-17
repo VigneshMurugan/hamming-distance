@@ -36,7 +36,3 @@ function distanceBetweenNumbers(firstNumber, secondNumber) {
 }
 
 module.exports = hammingDistance;
-
-
-
-console.log(hammingDistance('dasds','dasfadgagd'))

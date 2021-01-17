@@ -1,6 +1,6 @@
 {
   "name": "hamming-distance-calculator",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Calculate hamming distance for string and integer",
   "main": "index.js",
   "scripts": {

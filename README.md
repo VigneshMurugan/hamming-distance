@@ -1,11 +1,9 @@
-# Hamming distance calculator!  
-  
+# Hamming distance calculator
 
 Hamming distance calculator can be used with integers and string  
   
-  
 
-# Hamming distance calculator!
+# Hamming distance calculator
 
 Hamming distance calculator can be used with integers and string
 
