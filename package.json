@@ -1,6 +1,6 @@
 {
   "name": "hamming-distance-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate hamming distance for string and integer",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "assert": "^2.0.0"
-  }
+  },
+  "repository": "https://github.com/VigneshMurugan/hamming-distance.git"
 }
